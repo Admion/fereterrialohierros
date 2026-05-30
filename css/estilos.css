@@ -318,7 +318,7 @@
   .chip-location {
     display: inline-flex; align-items: center; gap: var(--spacing-sm);
     background-color: var(--on-primary-fixed);
-    color: var(--primary);
+    color: white;
     padding: var(--spacing-md) var(--spacing-lg);
     border-radius: 9999px;
     font-family: 'Inter', sans-serif; font-size: 12px; font-weight: 700;
